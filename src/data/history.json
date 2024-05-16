@@ -1,0 +1,19 @@
+[
+  {
+    "role": "FullStack Developer Intern",
+    "organisation": "Netcoreinfo Business Group",
+    "startDate": "Sept, 2023",
+    "endDate": "Jan,2024",
+    "experiences": ["Designing and developing user interfaces using React.js", "Building backend services and APIs with Node.js and Express.js"],
+    "imageSrc": "history/images.jpeg"
+  },
+  {
+    "role": "Web Development Intern",
+    "organisation": "CodSoft",
+    "startDate": "Jun, 2023",
+    "endDate": "Aug,2023",
+    "experiences": ["Develop user-facing features using HTML, CSS, and JavaScript.", "Collaborate with designers to implement UI/UX designs effectively.  "],
+    "imageSrc": "history/codesoft.png"
+  }
+
+]

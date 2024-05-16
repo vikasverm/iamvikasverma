@@ -1,0 +1,34 @@
+[
+  {
+    "title": "BooksPoint",
+    "imageSrc": "projects/Bookspoint.png",
+    "description": "Purpose is to Create This Book Store Provides the Facility For Customers To Buy Books Online Through  The Website. Customers Can Search For a Book By Title And Add it to Their Shopping Cart, And Then  Purchase it.",
+    "skills": ["React", "Express", "Node","MongoDB","Tailwind Css"],
+    "demo": "https://bookspoint.netlify.app/",
+    "source": "https://github.com/vikasverm/bookstorefrontend.git"
+  },
+  {
+    "title": "Expense Tracker",
+    "imageSrc": "projects/expense.png",
+    "description": "The Expense Tracker Project is a Web Application Developed Using React Js ,Node Js,Express Js,  MongoDB. Its Main Purpose is to Assist Users in Keeping Track of Their Expenses .",
+    "skills": ["React", "Express", "Node", "MongoDB","Tailwind Css"],
+    "demo": "https://github.com/vikasverm/ExpenseTrackerfrontend.git",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Todo List",
+    "imageSrc": "projects/blogdesc.png",
+    "description": "TodoList: Efficient task management app using React and Tailwind CSS for sleek design, enhanced functionality, and intuitive user experience.",
+    "skills": ["React","Tailwind CSS"],
+    "demo": "https://titledesc.netlify.app/",
+    "source": "https://github.com/vikasverm/todolist.git"
+  },
+  {
+    "title": "Music Player",
+    "imageSrc": "projects/musics.png",
+    "description": "A sleek and interactive web application crafted with HTML, CSS, and JavaScript, providing seamless music playback and navigation.",
+    "skills": ["Html","Css","Javascript","Bootstrap"],
+    "demo": "https://vikasverm.github.io/musicplayer/",
+    "source": "https://github.com/vikasverm/musicplayer.git"
+  }
+]
